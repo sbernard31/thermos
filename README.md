@@ -3,9 +3,9 @@ As **Java Developers** when it comes to secure our application we can generally 
 
 The repository is an attempt for IoT Java Developers to **collectively improve this situation**. It aims to provide an detailed view of the situation, identifying : 
 
- - critical (D)TLS features for IoT.
- - existing (D)TLS implementations for Java, analyze how much they matches IoT use cases.
- - Open Source Java IoT project needs to provide feedback to OpenJDK security-dev.
+ - [critical (D)TLS features for IoT](https://github.com/sbernard31/thermos/wiki/Critical-(D)TLS-features-for-IoT).
+ - [existing (D)TLS implementations for Java](https://github.com/sbernard31/thermos/wiki/Existing-(D)TLS-implementations-for-Java), analyze how much they matches IoT use cases.
+ - [Open Source Java IoT project needs](https://github.com/sbernard31/thermos/wiki/Critical-(D)TLS-features-for-IoT) to provide feedback to OpenJDK security-dev.
 
 And then maybe find collective solutions to those problems.
 
