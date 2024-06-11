@@ -7,7 +7,7 @@ The repository is an attempt for IoT Java Developers to **collectively improve t
  - [existing (D)TLS implementations for Java](https://github.com/sbernard31/thermos/wiki/Existing-(D)TLS-implementations-for-Java), analyze how much they matches IoT use cases.
  - [Open Source Java IoT project needs](https://github.com/sbernard31/thermos/wiki/Critical-(D)TLS-features-for-IoT) to provide feedback to OpenJDK security-dev.
 
-And then maybe find collective solutions to those problems.
+And then maybe find collective [solutions](https://github.com/sbernard31/thermos/issues/3) to those problems.
 
 
 **Most of the content will be created as wiki page** in a first time.
